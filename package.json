@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1d9d0619ff2d76f7916797b09799ef977259a5c5
 {
   "name": "rikshavala-frontend",
   "version": "1.0.0",
@@ -8,6 +12,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "axios": "^1.6.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -15,6 +20,13 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.4.1",
+=======
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.0",
+>>>>>>> 1d9d0619ff2d76f7916797b09799ef977259a5c5
     "vite": "^4.0.0"
   }
 }
